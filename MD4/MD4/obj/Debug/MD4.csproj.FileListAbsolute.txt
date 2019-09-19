@@ -1,0 +1,7 @@
+C:\Users\antanas\source\repos\MD4\MD4\bin\Debug\MD4.exe.config
+C:\Users\antanas\source\repos\MD4\MD4\bin\Debug\MD4.exe
+C:\Users\antanas\source\repos\MD4\MD4\bin\Debug\MD4.pdb
+C:\Users\antanas\source\repos\MD4\MD4\obj\Debug\MD4.csprojAssemblyReference.cache
+C:\Users\antanas\source\repos\MD4\MD4\obj\Debug\MD4.csproj.CoreCompileInputs.cache
+C:\Users\antanas\source\repos\MD4\MD4\obj\Debug\MD4.exe
+C:\Users\antanas\source\repos\MD4\MD4\obj\Debug\MD4.pdb
